@@ -1,18 +1,31 @@
-## Getting Started
+#Estructura de datos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Estudiante Eduardo Ramon
 
-## Folder Structure
+##Metodos Ordenamiento
 
-The workspace contains two folders by default, where:
+###Practica 1 - 20/OCT
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Practica 2 - 21/OCT
+Metodo SortSelection en Java y Python 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Python
+PS C:\Users\LAB_04\Trabajo21octubre\icc-est-u1-metodos-ordenamiento> & C:/Users/LAB_04/AppData/Local/Programs/Python/Python313/python.exe c:/Users/LAB_04/Trabajo21octubre/icc-est-u1-metodos-ordenamiento/py/main.py
+Estudiante: Eduardo Ramon
+Original: [5, 2, 9, 1, 5, 6]
+Ascendente: [1, 2, 5, 5, 6, 9]
+Descendente: [9, 6, 5, 5, 2, 1]
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Java
+PS C:\Users\LAB_04\Trabajo21octubre\icc-est-u1-metodos-ordenamiento>  & 'C:\Program Files\Java\jdk-23\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\LAB_04\Trabajo21octubre\icc-est-u1-metodos-ordenamiento\bin' 'App' 
+Original:
+5 2 9 1 7 
+Ascendente:
+1 2 5 7 9 
+Descendente:
+9 7 5 2 1
+Metodo de seleccion:
+Original
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1 2 5 7 9
+PS C:\Users\LAB_04\Trabajo21octubre\icc-est-u1-metodos-ordenamiento> 
